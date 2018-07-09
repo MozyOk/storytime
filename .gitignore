@@ -8,3 +8,9 @@ spec/dummy/tmp/
 spec/dummy/public/uploads/
 spec/dummy/.sass-cache
 *.gem
+.envrc
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
